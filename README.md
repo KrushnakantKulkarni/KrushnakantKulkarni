@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer & Data Analyst | 1 Year Experience in Data-Driven Business Insights | Skilled in Django, Power BI, SQL, and Excel</h3>
 
 - 🧠 I’m experienced in **Data Cleaning, Dashboarding, and Backend Development**
-- 💬 Ask me about **Django, SQL, Power BI, Python (Pandas, NumPy), Excel**
+- 💬 Ask me about ** SQL, Power BI, Python (Pandas, NumPy), Excel**
 - 📫 How to reach me: **kkulkarni4004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
