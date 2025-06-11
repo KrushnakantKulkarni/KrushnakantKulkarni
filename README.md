@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krushnakant Kulkarni</h1>
-<h3 align="center">Python Developer & Data Analyst | 1 Year Experience in Data-Driven Business Insights | Skilled in Django, Power BI, SQL, and Excel</h3>
+<h3 align="center">Python Developer | 1 Year Experience in Backend Development | Skilled in Django, SQL, and Python Libraries</h3>
 
-- 🧠 I’m experienced in **Data Cleaning, Dashboarding, and Backend Development**
-- 💬 Ask me about ** SQL, Power BI, Python (Pandas, NumPy), Excel**
+- 🧠 I’m experienced in **Backend Development, Database Handling, and Python Programming**
+- 💬 Ask me about **Python (Pandas, NumPy), SQL, Django**
 - 📫 How to reach me: **kkulkarni4004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -34,12 +34,6 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
